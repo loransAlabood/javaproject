@@ -5,8 +5,7 @@ public class Point {
 	  private int xcoord = 0;
 	    private int ycoord = 0;
 	    private int zcoord = 0;
-	    private int gcoord = 0;
-			private int zcoord = 0;
+	  
 
 	    public Point(Point toCopy){
 	    	xcoord = toCopy.xcoord;
